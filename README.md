@@ -12,3 +12,6 @@ Example SQL:
 --UPDATE Persons
 --SET LastName = 'Bond', City= 'Orlando'
 --WHERE PersonID = 1243;
+
+Download: 
+Eclipse, SQL Developer, Oracle 23c XE, SQL Plus (command line)
